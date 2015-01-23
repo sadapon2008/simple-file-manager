@@ -30,7 +30,7 @@ app/Controller/PostsController:
 ```php
 <?php
 
-App::uses('AppController');
+App::uses('AppController', 'Controller');
 
 class PostsController extends AppController {
 
