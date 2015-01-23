@@ -1,0 +1,12 @@
+{
+    "name": "sadapon2008/SimpleFileManager",
+    "description": "SimpleFileManager For CakePHP + TinyMCE",
+    "type": "cakephp-plugin",
+    "keywords": ["cakephp"],
+    "homepage": "https://github.com/sadapon2008/SimpleFileManager",
+    "require": {
+        "composer/installers": "*",
+        "CakeDC/migrations": "~2.3",
+        "slywalker/boost_cake": "~1.0.6"
+    }
+}
